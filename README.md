@@ -14,7 +14,7 @@ This is a TIC-TAC-TOE game programmed in Java.
         Mode 1: human player vs human player
         Mode 2: human player vs AI
 
-# How to run this program:
+# How to run
     Clone this repository
     Make sure you have installed java (jdk 16)
     Run the program and start playing
